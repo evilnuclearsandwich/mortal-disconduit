@@ -1,3 +1,3 @@
 # mortal-disconduit
 
-This is just a bug reproduction test repo. It is not exciting.
+This is just a bug reproduction test repo. It is so exciting!
